@@ -1,0 +1,12 @@
+hayvanlar
+kedi
+kopek
+zebra
+
+sehirler
+ankara
+izmir
+
+meyveler
+elma
+armut
